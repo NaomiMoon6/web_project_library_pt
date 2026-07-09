@@ -1,4 +1,4 @@
-# Projeto 2: Biblioteca Triple Peaks
+# Projeto 3: Biblioteca Triple Peaks
 
 A página da biblioteca Triple Peaks é o segundo projeto no programa de desenvolvimento web na TripleTen. Ela foi criada usando HTML e CSS, com base no roteiro.
 
@@ -6,3 +6,4 @@ A página da biblioteca Triple Peaks é o segundo projeto no programa de desenvo
 
 - HTML5 semântico
 - Flexbox
+- Posicionamento
