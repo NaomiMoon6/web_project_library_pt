@@ -43,3 +43,11 @@ O foco principal desta etapa foi transformar requisitos visuais e estruturais em
 ├── index.html       # Estrutura principal da aplicação
 └── style.css        # Folha de estilos CSS
 ```
+
+## 🌐 Link de Acesso
+
+Você pode acessar o projeto através do link do GitHub Pages:
+
+🔗 [Visualizar o Projeto Online (GitHub Pages)](https://naomimoon6.github.io/web_project_library_pt/)
+
+---
